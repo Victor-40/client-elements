@@ -30,7 +30,7 @@ h2 {
   grid-template-columns: 1fr 1fr;
   grid-gap: 10px;
   /* height: 100vh; */
-  margin: 0;
+  margin: 0 20%;
 }
 free,
 busy {
@@ -49,6 +49,8 @@ busy {
 }
 ul > li {
   font-weight: 600;
+  list-style-type: none;
+  margin-bottom: 10px;
 }
 </style>
 

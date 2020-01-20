@@ -5,7 +5,7 @@
       <article id="mainArticle"><router-view/></article>
       <nav id="mainNav">
         <p><router-link to="/">Home</router-link></p>
-        <p><router-link to="/status">Status</router-link></p>
+        <p><router-link to="/status">Status VMs</router-link></p>
         <p><router-link to="/about">About</router-link></p>
       </nav>
     </div>
