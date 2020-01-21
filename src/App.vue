@@ -6,7 +6,7 @@
       <nav id="mainNav">
         <p><router-link to="/">Home</router-link></p>
         <p><router-link to="/status">Status VMs</router-link></p>
-        <p><router-link to="/about">About</router-link></p>
+        <p><router-link to="/fulltestset">Full Testset</router-link></p>
       </nav>
     </div>
   </div>

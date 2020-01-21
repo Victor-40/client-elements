@@ -5,6 +5,8 @@ import 'element-ui/packages/theme-chalk/lib/index.css';
 import {
   Button,
   Card,
+  Checkbox,
+  CheckboxGroup,
   Form,
   FormItem,
   Input,
@@ -18,6 +20,8 @@ import {
 
 const elements = [ Button,
   Card,
+  Checkbox,
+  CheckboxGroup,
   Form,
   FormItem,
   Input,

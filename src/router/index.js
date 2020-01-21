@@ -2,6 +2,7 @@ import Vue from 'vue';
 import VueRouter from 'vue-router';
 import Home from '../views/Home.vue';
 import Status from '../components/Status.vue';
+import FullTestset from '../components/FullTestset.vue';
 
 Vue.use(VueRouter);
 
@@ -23,6 +24,11 @@ const routes = [
     path: '/status',
     name: 'status',
     component: Status
+  },
+  {
+    path: '/fulltestset',
+    name: 'FullTestset',
+    component: FullTestset
   },
 ]
 
